@@ -2,6 +2,8 @@
 
 In an existing project given to me by Udacity for my nanodegree course, using Jasmine to test if the Javascript is working properly. 
  
+ Jasmine is an open source testing framework for JavaScript
+ 
  link to Jasmine https://jasmine.github.io/index.html
 
 ##  Tests That Were Implemented
@@ -15,8 +17,8 @@ In an existing project given to me by Udacity for my nanodegree course, using Ja
 * Tests to see if two entries are not equal
 
 #   How to run the Project
-Download the repository as zip file in your computer or alternatively you can clone it.
-Open the index.html file in your browser.
+* Download the repository as zip file in your computer or alternatively you can clone it.
+* Open the index.html file in your browser.
 
 
 
